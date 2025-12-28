@@ -1,4 +1,4 @@
-# 🌍 Terra – Devlog
+# Terra – Devlog
 
 **Terra** is a voxel sandbox game, inspired by Minecraft, created by **PENGU**.
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Alpha 1.0 – Implemented Features
+## Alpha 1.0 – Implemented Features
 - Grass Block
 - Infinite terrain
 - Place and break blocks
@@ -15,7 +15,7 @@
 
 ---
 
-## 🧭 Coming Next
+## Coming Next
 - More block types
 - Item system and crafting
 - World save/load
@@ -23,11 +23,11 @@
 
 ---
 
-## 📝 Disclaimer
+## Disclaimer
 - Source code: MIT License
 - Game assets, logo, and name: All Rights Reserved
 
 ---
 
-## 🔔 Latest Updates
+## Latest Updates
 - [Alpha 1.0 – First public release](updates/alpha-1-0.md)
